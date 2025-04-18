@@ -8,15 +8,15 @@ This project aims to predict housing prices using machine learning models and an
 housing-price-prediction/
 │
 ├── data/
-    ├── housing_raw.csv                  # Original dataset
+│   ├── housing_raw.csv                  # Original raw dataset
 │   └── housing_cleaned.csv              # Cleaned dataset with feature engineering
 │
 ├── notebooks/
 │   ├── 01_data_preparation.ipynb        # Data cleaning, encoding, outlier detection
-│   ├── 02_model_training.ipynb          # Model training, evaluation, feature importance
-│  
-├── requirements.txt                     # Required packages for running the project
-└── README.md                            # Project overview, setup, and usage
+│   └── 02_model_training.ipynb          # Model training, evaluation, feature importance
+│   
+├── requirements.txt                     # Required Python libraries
+└── README.md                            # Project overview and instructions
 
 ---
 
