@@ -69,15 +69,6 @@ All models were compared using:
 
 ---
 
-## 📈 Key Insights
-
-- `area` was the most influential feature across all models
-- Engineered features (like `area_per_bathroom`) boosted performance in tree models
-- Furnishing and amenities like `airconditioning` played a significant role in linear models
-
-
----
-
 ## Next Steps
 
 - Fine-tune hyperparameters
