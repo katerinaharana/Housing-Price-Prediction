@@ -5,7 +5,7 @@ This project aims to predict housing prices using machine learning models and an
 ---
 
 ## 📁 Project Structure
-
+housing-price-prediction/ │ ├── data/ │ └── housing_cleaned.csv # Cleaned dataset with feature engineering │ ├── notebooks/ │ ├── 01_data_preparation.ipynb # Data cleaning, encoding, outlier detection │ ├── 02_model_training.ipynb # Model training, evaluation, feature analysis │ └── 03_model_explanation.ipynb # (optional) Model
 
 ---
 
