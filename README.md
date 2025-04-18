@@ -2,10 +2,9 @@
 
 This project aims to predict housing prices using machine learning models and analyze the importance of housing features. The dataset contains structured information about real estate properties including area, number of rooms, location factors, and furnishing status.
 
----
-##  Project Structure
+## 📁 Project Structure
 
-Housing-Price-Prediction/
+housing-price-prediction/
 │
 ├── data/
 │   ├── housing_raw.csv              # Original raw dataset
@@ -18,7 +17,6 @@ Housing-Price-Prediction/
 ├── requirements.txt                 # Required Python libraries
 └── README.md                        # Project overview and usage instructions
 
----
 
 ## 📊 Dataset Overview
 
